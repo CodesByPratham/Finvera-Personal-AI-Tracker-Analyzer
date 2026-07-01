@@ -106,5 +106,5 @@ Track income and expenses, manage financial accounts, import bank statements, an
 ---
 
 <div align="center">
-  Built with ❤️ by <a href="https://github.com/pratham-developer">Pratham</a> &nbsp;&amp;&nbsp; <a href="https://github.com/devpalsanawala">Palsanawala</a> (Co-developer)
+  Built with ❤️ by <a href="https://github.com/CodesByPratham">Pratham</a> &nbsp;&amp;&nbsp; <a href="https://github.com/devpalsanawala">Palsanawala</a> (Co-developer)
 </div>
